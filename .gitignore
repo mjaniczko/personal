@@ -1,0 +1,13 @@
+# Node modules in root, frontend, and backend
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Build and dist folders (common in many frontend and backend setups)
+dist/
+build/
+
+# Ignore environment files
+.env
+frontend/.env
+backend/.env
